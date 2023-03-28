@@ -1,2 +1,2 @@
 # Extinctathon
-MadAdam Names the dead ones.
+MaddAdam Names the dead ones.
