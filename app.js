@@ -1,5 +1,3 @@
-
-//for the menu button
-function menuFunction(x) {
+function menuIcon(x) {
     x.classList.toggle("change");
-  }
+}
